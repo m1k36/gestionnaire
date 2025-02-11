@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-f34343f2b94f2d2a30ff.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Tableur_Chenil",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Tableur_Chenil::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tableur_Chenil-Release-ad750797b8b42a90a8fd.json",
+					"name" : "Tableur_Chenil",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tableur_Chenil_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tableur_Chenil_autogen-Release-c04ce0838d8b43ad3fcb.json",
+					"name" : "Tableur_Chenil_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tableur_Chenil_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tableur_Chenil_autogen_timestamp_deps-Release-b9f2c9132a4cbede79d8.json",
+					"name" : "Tableur_Chenil_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/mikep/OneDrive/Bureau/Git/Tableur_Chenil/Tableur_Chenil/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release",
+		"source" : "C:/Users/mikep/OneDrive/Bureau/Git/Tableur_Chenil/Tableur_Chenil"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
